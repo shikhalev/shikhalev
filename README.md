@@ -1,11 +1,9 @@
-{:#en}
-| EN | [ru](#ru) |
+| <span id="en">EN</span> | [ru](#ru) |
 ------------------
 
 # Ivan Shikhalev
 
-{:#ru}
-| [en](#en) | RU |
+| [en](#en) | <span id="ru">RU</span> |
 ------------------
 
 # Иван Шихалев
