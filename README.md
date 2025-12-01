@@ -4,7 +4,7 @@
 
 Hi, my name is **Ivan Shikhalev**.
 
-I've been working as a programmer since roughly the beginning of the millennium :)
+I've been working as a programmer since roughly the beginning of the millennium :)
 
 Professionally worked with the following languages/technologies:
 - Delphi + Interbase (a long time ago);
@@ -33,7 +33,7 @@ I prefer project-based work and am permanently open to proposals.
 
 Привет, меня зовут **Иван Шихалев**.
 
-Я работаю программистом примерно с начала тысячелетия :)
+Я работаю программистом примерно с начала тысячелетия :)
 
 Профессионально работал со следующими языками/технологиями:
 - Delphi + Interbase (очень давно);
@@ -48,7 +48,7 @@ I prefer project-based work and am permanently open to proposals.
 - Ruby,
 - Rust (тут не хватает времени).
 
-Более подробно и разносторонне обо мне можно узнать в блоге — <https://shikhalev.github.io/>. Что касается данного профиля и моей активности на GitHub, хочу обратить внимание на то, что я перенес наиболее существенные проекты из собственно профиля в отдельные «организации» — так, по многим причинам, удобнее.
+Более подробно и разносторонне обо мне можно узнать в блоге — <https://shikhalev.github.io/>. Что касается данного профиля и моей активности на GitHub, хочу обратить внимание на то, что я перенес наиболее существенные проекты из собственно профиля в отдельные «организации» — так, по многим причинам, удобнее.
 
 Предпочтительные способы связи (в порядке убывания предпочтений):
 - Сообщения телеграм-каналу сайта — <https://t.me/shikhalev_blog>,
