@@ -17,7 +17,7 @@ For personal projects, I prefer:
 - Ruby,
 - Rust (just not enough time for it).
 
-Learn more about me in detail on my blog — <https://shikhalev.github.io/>.
+Learn more about me in detail on my blog — <https://shikhalev.github.io/> (in russian).
 
 Preferred ways to get in touch (in order of preference):
 - Messages to the site Telegram channel — <https://t.me/shikhalev_blog>,
