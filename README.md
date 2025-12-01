@@ -26,7 +26,7 @@ Preferred ways to get in touch (in order of preference):
 - Email — <shikhalev@gmail.com>,
 - Direct messages in Telegram — <https://t.me/ivan_shikhalev>.
 
-I prefer project-based work and am permanently open to proposals.
+I prefer project-based work and am permanently open to proposals.
 
 </td>
 <td>
@@ -55,7 +55,7 @@ I prefer project-based work and am permanently open to proposals.
 - Электронная почта — <shikhalev@gmail.com>,
 - Личные сообщения в телеграм — <https://t.me/ivan_shikhalev>.
 
-Предпочитаю проектную работу и перманентно открыт к предложениям.
+Предпочитаю проектную работу и перманентно открыт к предложениям.
 
 </td></tr>
 
