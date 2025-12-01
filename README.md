@@ -1,4 +1,6 @@
-<span id="en"><b>EN</b> | <a href="#ru">ru</a></span>
+<table width="100%">
+
+<tr><td valign="top">
 
 Hi, my name is **Ivan Shikhalev**.
 
@@ -19,7 +21,6 @@ For personal projects, I prefer:
 
 Learn more about me in detail on my blog — <https://shikhalev.github.io/> (in russian). Regarding this profile and my activity on GitHub, I want to point out that I moved the most significant projects from the main profile to separate "organizations" — this is more convenient for many reasons.
 
-
 Preferred ways to get in touch (in order of preference):
 - Messages to the site Telegram channel — <https://t.me/shikhalev_blog>,
 - Email — <shikhalev@gmail.com>,
@@ -27,9 +28,8 @@ Preferred ways to get in touch (in order of preference):
 
 I prefer project-based work and am permanently open to proposals.
 
------
-
-<span id="ru"><a href="#en">en</a> | <b>RU</b></span>
+</td>
+<td>
 
 Привет, меня зовут **Иван Шихалев**.
 
@@ -56,3 +56,7 @@ I prefer project-based work and am permanently open to proposals.
 - Личные сообщения в телеграм — <https://t.me/ivan_shikhalev>.
 
 Предпочитаю проектную работу и перманентно открыт к предложениям.
+
+</td></tr>
+
+</table>
