@@ -4,7 +4,7 @@
 
 Hi, my name is **Ivan Shikhalev**.
 
-I've been working as a programmer / software developer / engineer since roughly the beginning of the millennium :)
+I've been working as a programmer / software developer / engineer since roughly the beginning of the millennium :)
 
 Professionally worked with the following languages/technologies:
 - Delphi + Interbase (a long time ago);
