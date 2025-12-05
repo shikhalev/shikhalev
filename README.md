@@ -28,7 +28,7 @@ For personal projects, I prefer:
 Learn more about me in detail on my blog — <https://shikhalev.github.io/> (in russian). Regarding this profile and my activity on GitHub, I want to point out that I moved the most significant projects from the main profile to separate "organizations" — this is more convenient for many reasons.
 
 Preferred ways to get in touch (in order of preference):
-- Messages to the site Telegram channel — <https://t.me/shikhalev_blog>,
+- Messages to the site Telegram channel — <https://t.me/shikhalev_blog?direct>,
 - Email — <shikhalev@gmail.com>,
 - Direct messages in Telegram — <https://t.me/ivan_shikhalev>.
 
@@ -57,7 +57,7 @@ I prefer project-based work and am permanently open to proposals.
 Более подробно и разносторонне обо мне можно узнать в блоге — <https://shikhalev.github.io/>. Что касается данного профиля и моей активности на GitHub, хочу обратить внимание на то, что я перенес наиболее существенные проекты из собственно профиля в отдельные «организации» — так, по многим причинам, удобнее.
 
 Предпочтительные способы связи (в порядке убывания предпочтений):
-- Сообщения телеграм-каналу сайта — <https://t.me/shikhalev_blog>,
+- Сообщения телеграм-каналу сайта — <https://t.me/shikhalev_blog?direct>,
 - Электронная почта — <shikhalev@gmail.com>,
 - Личные сообщения в телеграм — <https://t.me/ivan_shikhalev>.
 
